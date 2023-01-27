@@ -48,6 +48,7 @@ public class MyGUI{
 
                 password = pass.getText();
                 check();
+                myPanel.add(check());
 
             }
         });
@@ -56,7 +57,10 @@ public class MyGUI{
         myPanel.add(login);
         myPanel.add(user);
         myPanel.add(pass);
-        myPanel.add(check());
+
+
+
+
 
 
 
@@ -85,9 +89,12 @@ public class MyGUI{
         if(username.equals("BENN") && password.equals("ni")) {
             System.out.println("hi");
 
+
             ImageIcon icon = new ImageIcon("BEN.png");
             icon.setImage(icon.getImage().getScaledInstance(75, 75, Image.SCALE_DEFAULT));
-           pic  = new JLabel(icon);
+            pic  = new JLabel(icon);
+            JOptionPane bill = new JOptionPane();
+            bill.add(pic);
 
         };
 
