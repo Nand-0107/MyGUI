@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6884630a-0b52-4cba-809e-fbb5d8ca0158" name="Changes" comment="lalalaal">
-      <change afterPath="$PROJECT_DIR$/BEN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/noel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zack.png" afterDir="false" />
+    <list default="true" id="6884630a-0b52-4cba-809e-fbb5d8ca0158" name="Changes" comment="lalalaal2">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BEN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyGUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +31,7 @@
   </component>
   <component name="ProjectId" id="2Kjj5PkZBFTVUWkUyPThXwScD8V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">

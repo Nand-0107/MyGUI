@@ -39,7 +39,7 @@ public class MyGUI {
         });
 
 
-        JTextField pass = new JTextField(10);
+       JPasswordField pass = new JPasswordField(10);
 
 
         pass.addActionListener(new ActionListener() {
